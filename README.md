@@ -1,4 +1,4 @@
-# Amazon-Comment-Scraper
+# Amazon Reviews Scraper
 
 A python-based program to collect reviews from any Amazon product page into a CSV file based on users' requirements including the ratings, the number of reviews, and the review content.
 
