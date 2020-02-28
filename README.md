@@ -21,5 +21,11 @@ You don't have to login or provide any information about your Amazon account. Th
 
 **Reference:**
 
-The code was based on https://github.com/maxmonciardini/AmazonCommentScraper. Modification includes the code to locate which information should be scraped from the webpage, and to save the information into a csv file.
+The code was based on https://github.com/maxmonciardini/AmazonCommentScraper. Modification includes:
+
+ - the code to locate which information should be scraped from the webpage;
+ 
+ - the code to crawl the review created date, instead of generating a fake time;
+ 
+ - the code to save the information into a csv file.
 
